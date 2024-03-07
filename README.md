@@ -2,6 +2,8 @@
 
 # rayed-bqn: finally, some GUI for your flying saucer
 
+# DOCUMENTATION STILL IN PROGRESS
+
 <center>
 
 [documentation](doc/README.md) • [specification](spec/README.md) • [tutorials](tutorial/README.md) • [implementation](implementation/README.md) • [community](community/README.md)
