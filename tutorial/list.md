@@ -1,4 +1,4 @@
-*View this file with results and syntax highlighting [here](https://mlochbaum.github.io/BQN/tutorial/list.html).*
+*View this file with results and syntax highlighting [here](https://brian-ed.github.io/rayed-bqn/tutorial/list.html).*
 
 # Tutorial: Working with lists
 

@@ -1,4 +1,4 @@
-*View this file with results and syntax highlighting [here](https://mlochbaum.github.io/BQN/tutorial/index.html).*
+*View this file with results and syntax highlighting [here](https://brian-ed.github.io/rayed-bqn/tutorial/index.html).*
 
 # BQN tutorials
 

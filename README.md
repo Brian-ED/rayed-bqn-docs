@@ -1,12 +1,10 @@
-*View this file with a real REPL [here](https://mlochbaum.github.io/BQN/index.html).*
+*View this file with a real REPL [here](https://brian-ed.github.io/rayed-bqn/index.html).*
 
-# rayed-bqn: finally, some GUI for your flying saucer
-
-# DOCUMENTATION STILL IN PROGRESS
+# DOCUMENTATION STILL IN PROGRESS rayed-bqn: finally, some lasers for your flying saucer
 
 <center>
 
-[documentation](doc/README.md) • [specification](spec/README.md) • [tutorials](tutorial/README.md) • [implementation](implementation/README.md) • [community](community/README.md)
+[documentation](doc/README.md) • [community](community/README.md)
 
 </center>
 

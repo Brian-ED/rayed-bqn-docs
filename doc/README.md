@@ -1,20 +1,21 @@
-*View this file with results and syntax highlighting [here](https://mlochbaum.github.io/BQN/doc/index.html).*
+*View this file with results and syntax highlighting [here](https://brian-ed.github.io/rayed-bqn/doc/index.html).*
 
 # Rayed-bqn documentation
 
-# WORK IN PROGRESS
+Working BQN library for making games.
+Not stable, though usable. Breaking changes, when intentional, will be explained in the BQN forum.
 
-Rayed-bqn's documentation describes what features it has, how to use them (with examples), and why they were chosen. For a linear introduction to the language, see the [tutorials](../tutorial/README.md). For all of the particulars without so much discussion, see the [specification](../spec/README.md).
+Rayed-bqn's documentation describes what features it has, how to use them, and why they were chosen.
+The rayed-bqn documentation will avoid talking about bqn specifics like primitives, for those you may refer to the (BQN documentation)[https://mlochbaum.github.io/BQN]
 
-The [quick start](quick.md) page is a hands-on way to see what features BQN offers so you can start with the parts you're most interested in.
+## REST OF DOCUMENTATION IS WORK IN PROGRESS
 
 Overview:
-- [Syntax](syntax.md)
-- [Types](types.md)
+- [Styles](style.md)
+- [Naming conventions](naming.md)
 - [Primitives](primitive.md)
-- [Paradigms](paradigms.md)
+- [Navigation](nav.md) (for example when to look in raylib.bqn vs rayed.bqn)
 - See also [help index](../help/README.md); [summary gist](https://gist.github.com/dzaima/52b47f898c5d43f72dc2637d6cdadedd)
-- And [system values](../spec/system.md) (not always implemented)
 
 References:
 - [Glossary](glossary.md)
